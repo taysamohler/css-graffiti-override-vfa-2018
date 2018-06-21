@@ -2,6 +2,8 @@
 #wall .tag-1 {
   display: none;
 }
-#wall:third-child {
+
+#wall #tag-2 {
   display:none;
 }
+
