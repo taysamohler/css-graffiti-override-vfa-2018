@@ -7,6 +7,9 @@ div#wall #tag-2 {
   display:none;
 }
 
+#wall.parent #tag-3.slick {
+  display:none;
+}
 
 div#wall #tag-4 {
   display:none;
